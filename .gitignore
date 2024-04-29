@@ -13,6 +13,7 @@ obj
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+Source/Assemblies/.idea/
 
 # AWS User-specific
 .idea/**/aws.xml
